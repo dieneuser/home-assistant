@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="Projektlogo" width="200">
+  <img src="logo.svg" alt="Projektlogo" width="200">
 </p>
 
 # Home Assistant 
